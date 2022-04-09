@@ -1,0 +1,109 @@
+@import url(https://allfont.es/allfont.css?fonts=homoarakhn);
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body{
+    background-image: url(https://images3.alphacoders.com/801/thumb-1920-801817.jpg);
+}
+
+h1.titulo{
+    font-size: 32pt;
+    color: rgb(255, 255, 255);
+    font-family: 'Homoarakhn', arial;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+    text-align: center;
+}
+
+h1.subtitulo{
+    display: inline;
+    color: rgb(255, 255, 255);
+    font-family: 'Homoarakhn', arial;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+    margin-block-start: auto;
+    margin-block-end: auto;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+}
+
+h2.subtitulo2{
+    display: inline;
+    color: rgb(0, 0, 0);
+    font-family: 'Homoarakhn', arial;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+    margin-block-start: auto;
+    margin-block-end: auto;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+}
+
+div.contenido{
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 90%;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+div.texto{
+    text-align: center;
+    width: 30%;
+}
+
+img.foto-redondeada{
+    display: block;
+    margin: auto;
+    border-radius:160px;
+    border-style: double;
+    width:320px;
+    height: auto;
+}
+
+img.foto-baby{
+    width: 150px;
+    height: 190px;
+    
+}
+
+img.foto-matrix{
+    width: 140px;
+    height: 170px;
+    
+}
+
+img.foto-padre{
+    width: 170px;
+    height: 170px;
+    
+}
+
+img.foto-madre{
+    width: 160px;
+    height: 260px;
+    
+}
+
+img.foto-hija{
+    width: 210px;
+    height: 150px;
+    
+}
+
+img.foto-e3{
+    width: 210px;
+    height: 150px;
+    
+}
+
+div.parrafo-con-imagen{
+    display:flex;
+    font-size: 10pt;
+    font-family: 'Raleway', sans-serif;
+}
+
+p{
+    font-size: 15pt;
+    font-family: 'Raleway', sans-serif;
+}
+
+li{
+    font-size: 15pt;
+    font-family: 'Raleway', sans-serif;
+}
